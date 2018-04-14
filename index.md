@@ -24,17 +24,14 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 [Link](url) and ![Image](src)
 ```
+```markdown
 ### P2P Systems
-[Chord](http://nms.csail.mit.edu/papers/chord.pdf): A Scalable Peer-to-peer Lookup Protocol for Internet Applications.
-
-[Kademlia](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf): A Peer-to-peer Information System Based on the XOR Metric.
-
-[Pastry](http://rowstron.azurewebsites.net/PAST/pastry.pdf): Scalable, decentralized object location and routing for large-scale peer-to-peer systems.
-
-[PAST](https://people.mpi-sws.org/~druschel/publications/PAST-hotos.pdf): A large-scale, persistent peer-to-peer storage utility - storage system atop Pastry.
-
-[SCRIBE](https://people.mpi-sws.org/~druschel/publications/Scribe-jsac.pdf): A large-scale and decentralised application-level multicast infrastructure - wide area messaging atop Pastry
-
+* [Chord](http://nms.csail.mit.edu/papers/chord.pdf): A Scalable Peer-to-peer Lookup Protocol for Internet Applications.
+- [Kademlia](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf): A Peer-to-peer Information System Based on the XOR Metric.
+- [Pastry](http://rowstron.azurewebsites.net/PAST/pastry.pdf): Scalable, decentralized object location and routing for large-scale peer-to-peer systems.
+- [PAST](https://people.mpi-sws.org/~druschel/publications/PAST-hotos.pdf): A large-scale, persistent peer-to-peer storage utility - storage system atop Pastry.
+- [SCRIBE](https://people.mpi-sws.org/~druschel/publications/Scribe-jsac.pdf): A large-scale and decentralised application-level multicast infrastructure - wide area messaging atop Pastry
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
