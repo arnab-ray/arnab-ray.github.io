@@ -25,12 +25,17 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+### Latency
+* [Latency Exists, Cope!](http://www.addsimplicity.com/adding_simplicity_an_engi/2007/02/latency_exists_.html): Commentary on coping with latency and it's architectural impacts.
+* [Latency - the new web performance bottleneck](https://www.igvita.com/2012/07/19/latency-the-new-web-performance-bottleneck/): not at all new (see [Patterson](http://dl.acm.org/citation.cfm?id=1022596)), but noteworthy.
+* [The Tail At Scale](https://research.google.com/pubs/pub40801.html): the latency challenges inherent of dealing with latency in large scale systems. Alternate [link](https://www2.cs.duke.edu/courses/cps296.4/fall13/838-CloudPapers/dean_longtail.pdf).
+
 ### P2P Systems
 * [Chord](http://nms.csail.mit.edu/papers/chord.pdf): A Scalable Peer-to-peer Lookup Protocol for Internet Applications.
 * [Kademlia](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf): A Peer-to-peer Information System Based on the XOR Metric.
 * [Pastry](http://rowstron.azurewebsites.net/PAST/pastry.pdf): Scalable, decentralized object location and routing for large-scale peer-to-peer systems.
 * [PAST](https://people.mpi-sws.org/~druschel/publications/PAST-hotos.pdf): A large-scale, persistent peer-to-peer storage utility - storage system atop Pastry.
-* [SCRIBE](https://people.mpi-sws.org/~druschel/publications/Scribe-jsac.pdf): A large-scale and decentralised application-level multicast infrastructure - wide area messaging atop Pastry
+* [SCRIBE](https://people.mpi-sws.org/~druschel/publications/Scribe-jsac.pdf): A large-scale and decentralised application-level multicast infrastructure - wide area messaging atop Pastry.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
