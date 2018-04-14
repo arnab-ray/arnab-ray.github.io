@@ -26,6 +26,7 @@ Syntax highlighted code block
 ```
 ## P2P Systems
 [Chord](http://nms.csail.mit.edu/papers/chord.pdf): A Scalable Peer-to-peer Lookup Protocol for Internet Applications.
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
