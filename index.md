@@ -20,6 +20,9 @@ Distributed systems are becoming part of common jargon in this era of scale. Bel
 * [PAST](https://people.mpi-sws.org/~druschel/publications/PAST-hotos.pdf) - A large-scale, persistent peer-to-peer storage utility - storage system atop Pastry.
 * [SCRIBE](https://people.mpi-sws.org/~druschel/publications/Scribe-jsac.pdf) - A large-scale and decentralised application-level multicast infrastructure - wide area messaging atop Pastry.
 
+### Theory
+* [A Cache of Theoretical Papers](https://github.com/papers-we-love/papers-we-love/tree/master/distributed_systems).
+
 ### Contact
 
 I am reachable through [LinkedIn](https://www.linkedin.com/in/arnab008/).
