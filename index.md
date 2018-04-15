@@ -1,6 +1,6 @@
 ## Introduction
 
-Distributed systems are becoming part of common jargon in this era of scale. Below is a set of documents that discuss about the aspects of developing a distributed system.
+I started it off to consolidate resources for learning distributed systems, but it is slowly expanding it's wings to cover not only distributed systems, but in general anything that piques my interest.
 
 ### Amazon
 * [A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065) - Coverage of Amazon's transition to a service-based architecture.
@@ -23,8 +23,9 @@ Distributed systems are becoming part of common jargon in this era of scale. Bel
 ### Theory
 * [A Cache of Theoretical Papers](https://github.com/papers-we-love/papers-we-love/tree/master/distributed_systems).
 
-### Science
+### Miscellaneous 
 * [The Value of Science](http://www.faculty.umassd.edu/j.wang/feynman.pdf) - Post involvement in Manhattan Project, Prof. Feynman answers question concerning _Is there evil in science?_
+* [Meltdown Attack](https://meltdownattack.com/).
 
 ### Contact
 
