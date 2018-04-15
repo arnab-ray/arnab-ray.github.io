@@ -108,6 +108,7 @@ I started it off to consolidate resources for learning distributed systems, but 
 ### Miscellaneous 
 * [The Value of Science](http://www.faculty.umassd.edu/j.wang/feynman.pdf) - Post involvement in Manhattan Project, Prof. Feynman answers question concerning _Is there evil in science?_
 * [Meltdown Attack](https://meltdownattack.com/).
+* [System Design Tutorial](https://www.hiredintech.com/system-design/sample-architectures/).
 
 ### Contact
 
