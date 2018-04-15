@@ -23,6 +23,9 @@ Distributed systems are becoming part of common jargon in this era of scale. Bel
 ### Theory
 * [A Cache of Theoretical Papers](https://github.com/papers-we-love/papers-we-love/tree/master/distributed_systems).
 
+### Science
+* [The Value of Science](http://www.faculty.umassd.edu/j.wang/feynman.pdf) - Post involvement in Manhattan Project, Prof. Feynman answers question concerning _Is there evil in science?_
+
 ### Contact
 
 I am reachable through [LinkedIn](https://www.linkedin.com/in/arnab008/).
