@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/arnab-ray/arnab-ray.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Distributed systems are becoming part of common jargon in this era of scale. Below is a set of documents that discuss about the aspects of developing a distributed system.
 
 ### Markdown
 
@@ -24,6 +22,11 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 [Link](url) and ![Image](src)
 ```
+### Amazon
+* [A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065): Coverage of Amazon's transition to a service-based architecture.
+* [Discipline and Focus](https://queue.acm.org/detail.cfm?id=1388773): Additional coverage of Amazon's transition to a service-based architecture.
+* [Werner Vogels](https://www.allthingsdistributed.com/) on [Scalability](http://web.archive.org/web/20130729204944id_/http://itc.conversationsnetwork.org/shows/detail1634.html).
+* [SOA creates order out of chaos @ Amazon](https://searchmicroservices.techtarget.com/news/1195702/SOA-creates-order-out-of-chaos-Amazon).
 
 ### Latency
 * [Latency Exists, Cope!](http://www.addsimplicity.com/adding_simplicity_an_engi/2007/02/latency_exists_.html): Commentary on coping with latency and it's architectural impacts.
