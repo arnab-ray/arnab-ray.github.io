@@ -2,6 +2,9 @@
 
 I started it off to consolidate resources for learning distributed systems, but it is slowly expanding it's wings to cover not only distributed systems, but in general anything that piques my interest.
 
+### First Steps
+* [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/) - A book covering basic concepts.
+
 ### Thought Provokers
 * [Harvest, Yield and Scalable Tolerant Systems](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.33.411) - Real world applications of CAP from Brewer et al.
 * [On Designing and Deploying Internet Scale Services](https://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf) - James Hamilton.
@@ -60,10 +63,13 @@ I started it off to consolidate resources for learning distributed systems, but 
 * [Impossibility of distributed consensus with one faulty process](https://dl.acm.org/citation.cfm?doid=3149.214121) - also known as FLP [access requires account and/or payment, a free version can be found [here](http://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)].
 * [Unreliable Failure Detectors for Reliable Distributed Systems](https://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/p225-chandra.pdf) - A method for handling the challenges of FLP.
 * [Lamport Clocks](http://lamport.azurewebsites.net/pubs/time-clocks.pdf) - How do you establish a global view of time when each computer's clock is independent.
+* [Vector Clocks](http://zoo.cs.yale.edu/classes/cs426/2012/lab/bib/fidge88timestamps.pdf) - A generalisation of Lamport clocks.
 * [The Byzantine Generals Problem](http://lamport.azurewebsites.net/pubs/byz.pdf).
 * [Lazy Replication: Exploiting the Semantics of Distributed Services](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.17.469).
 * [Scalable Agreement - Towards Ordering as a Service](https://www.usenix.org/legacy/event/hotdep10/tech/full_papers/Kapritsos.pdf).
-* [Scalable Eventually Consistent Counters over Unreliable Networks](https://arxiv.org/pdf/1307.3207v1.pdf) - Scalable counting is tough in an unreliable world
+* [Scalable Eventually Consistent Counters over Unreliable Networks](https://arxiv.org/pdf/1307.3207v1.pdf) - Scalable counting is tough in an unreliable world.
+* [Consistent snapshot](https://www.microsoft.com/en-us/research/publication/distributed-snapshots-determining-global-states-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Fchandy.pdf).
+* Leader election algorithm(http://web.info.uvt.ro/~petcu/distrib/SD12.pdf).
 * [A Cache of Theoretical Papers](https://github.com/papers-we-love/papers-we-love/tree/master/distributed_systems).
 
 ### Languages and Tools
@@ -74,7 +80,7 @@ I started it off to consolidate resources for learning distributed systems, but 
 
 ### Storage
 * [Consistent Hashing and Random Trees](https://www.akamai.com/us/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf).
-* [Amazon's Dynamo Storage Service](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html).
+* [Amazon's Dynamo Storage Service](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html). Another source is present [here](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf).
 
 ### Paxos Consensus
 * [Paxos Made Simple](http://lamport.azurewebsites.net/pubs/paxos-simple.pdf) - Leslie Lamport.
