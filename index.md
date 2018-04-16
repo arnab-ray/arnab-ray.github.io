@@ -68,8 +68,8 @@ I started it off to consolidate resources for learning distributed systems, but 
 * [Lazy Replication: Exploiting the Semantics of Distributed Services](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.17.469).
 * [Scalable Agreement - Towards Ordering as a Service](https://www.usenix.org/legacy/event/hotdep10/tech/full_papers/Kapritsos.pdf).
 * [Scalable Eventually Consistent Counters over Unreliable Networks](https://arxiv.org/pdf/1307.3207v1.pdf) - Scalable counting is tough in an unreliable world.
-* [Consistent snapshot](https://www.microsoft.com/en-us/research/publication/distributed-snapshots-determining-global-states-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Fchandy.pdf).
-* Leader election algorithm(http://web.info.uvt.ro/~petcu/distrib/SD12.pdf).
+* [Consistent snapshot](https://www.microsoft.com/en-us/research/publication/distributed-snapshots-determining-global-states-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Fchandy.pdf) - Chandy et al.
+* [Leader election algorithm](http://web.info.uvt.ro/~petcu/distrib/SD12.pdf).
 * [A Cache of Theoretical Papers](https://github.com/papers-we-love/papers-we-love/tree/master/distributed_systems).
 
 ### Languages and Tools
