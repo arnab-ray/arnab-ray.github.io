@@ -3,7 +3,8 @@
 I started it off to consolidate resources for learning distributed systems, but it is slowly expanding it's wings to cover not only distributed systems, but in general anything that piques my interest.
 
 ### First Steps
-* [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/) - A book covering basic concepts.
+* [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/) - A book covering basic concepts
+* [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/).
 
 ### Thought Provokers
 * [Harvest, Yield and Scalable Tolerant Systems](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.33.411) - Real world applications of CAP from Brewer et al.
