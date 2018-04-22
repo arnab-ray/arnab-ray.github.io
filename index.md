@@ -80,6 +80,7 @@ I started it off to consolidate resources for learning distributed systems, but 
 * [Principles of Robust Timing over the Internet](https://queue.acm.org/detail.cfm?id=1773943) - Managing clocks is essential for even basics such as debugging.
 
 ### Storage
+* [Log Structured Merge Trees](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/).
 * [Consistent Hashing and Random Trees](https://www.akamai.com/us/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf).
 * [Amazon's Dynamo Storage Service](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html). Another source is present [here](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf).
 
