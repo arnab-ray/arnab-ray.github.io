@@ -48,7 +48,7 @@ I started it off to consolidate resources for learning distributed systems, but 
 * [Consistency, Availability, and Convergence](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf) - Proves the upper bound for consistency possible in a typical system.
 * [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed) - Eric Brewer expands on the original tradeoff description.
 * [Consistency and Availability](https://www.infoq.com/news/2008/01/consistency-vs-availability) - Vogels.
-* [Eventual Consistency](https://www.allthingsdistributed.com/2007/12/eventually_consistent.html) - Vogels.
+* [Eventual Consistency](https://www.allthingsdistributed.com/2007/12/eventually_consistent.html) - Vogels. Updated version [here](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html).
 * [Avoiding Two-Phase Commit](http://www.addsimplicity.com/adding_simplicity_an_engi/2006/12/avoiding_two_ph.html) - Two phase commit avoidance approaches.
 * [2PC or not 2PC, Wherefore Art Thou XA?](http://www.addsimplicity.com/adding_simplicity_an_engi/2006/12/2pc_or_not_2pc_.html) - Two phase commit isn't a silver bullet.
 * [Life Beyond Distributed Transactions](http://adrianmarriott.net/logosroot/papers/LifeBeyondTxns.pdf) - Helland.
